@@ -52,7 +52,14 @@ body{
     
 }
 .top-plan{
-    
-    margin-top: -30px;
-   
+    margin-top: -20px;
+    padding: 10px;
+}
+
+#hot{
+height: 16px;
+left: 65.56%;
+right: 32.71%;
+top: calc(50% - 16px/2 - 410px);
+ 
 }
